@@ -32,14 +32,14 @@ export default function Header() {
       </div>
 
       <div className='flex gap-8'>
-        <a className='transition-colors duration-300 hover:text-blue-400 hover:underline' href="#1">Home</a>
-        <a className='transition-colors duration-300 hover:text-blue-400 hover:underline' href="#2">About</a>
-        <a className='transition-colors duration-300 hover:text-blue-400 hover:underline' href="#3">Services</a>
-        <a className='transition-colors duration-300 hover:text-blue-400 hover:underline' href="#4">Success Stories</a>
-        <a className='transition-colors duration-300 hover:text-blue-400 hover:underline' href="#5">Team</a>
+        <a className='transition-colors duration-300 hover:text-blue-400 hover:underline' href="/#1">Home</a>
+        <a className='transition-colors duration-300 hover:text-blue-400 hover:underline' href="/#2">About</a>
+        <a className='transition-colors duration-300 hover:text-blue-400 hover:underline' href="/#3">Services</a>
+        <a className='transition-colors duration-300 hover:text-blue-400 hover:underline' href="/#4">Success Stories</a>
+        <a className='transition-colors duration-300 hover:text-blue-400 hover:underline' href="/#5">Team</a>
         <a className='transition-colors duration-300 hover:text-blue-400 hover:underline' href="/career">Career</a>
-        <a className='transition-colors duration-300 hover:text-blue-400 hover:underline' href="#7">Contact</a>
-        <a className='transition-colors duration-300 hover:text-blue-400 hover:underline' href="#8">FAQ</a>
+        <a className='transition-colors duration-300 hover:text-blue-400 hover:underline' href="/#7">Contact</a>
+        <a className='transition-colors duration-300 hover:text-blue-400 hover:underline' href="/#8">FAQ</a>
       </div>
     </header>
   );

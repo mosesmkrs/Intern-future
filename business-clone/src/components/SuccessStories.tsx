@@ -1,9 +1,10 @@
 import React from 'react'
 import Image from 'next/image'
+import Contact from './Contact'
 
 function SuccessStories() {
   return (
-    <div className='bg-[#ffffff] text-center p-12'>
+    <div className='bg-[#ffffff] text-center py-16'>
       <section className='w-3/4 mx-auto'>
             <p className='container text-4xl text-[#002e5f] p-4'>
               Our Success Stories
@@ -14,8 +15,8 @@ function SuccessStories() {
             </p>
             </section>
 
-            <section className='flex gap-6 p-6 text-black mt-16'>
-              <div className='text-center rounded-lg shadow-2xl p-8 bg-white transition-shadow duration-1000 hover:shadow-none hover:bg-gradient-to-br from-[#66ffcc] to-[#ffccff]'>
+            <section className='flex gap-6 p-6 text-black my-16'>
+              <div className='text-center rounded-lg shadow-2xl p-8 bg-white border transition-shadow duration-1000 hover:shadow-none hover:bg-gradient-to-br from-[#66ffcc] to-[#ffccff]'>
                 <Image src="/images/intro.jpg" alt="img" height={64} width={64} className='rounded-full mx-auto m-4'/>
                 <p className='text-xl'>Successful Placements:-</p>
                 <br />
@@ -24,7 +25,7 @@ function SuccessStories() {
                 </p>
 
               </div>
-              <div className='text-center rounded-lg shadow-2xl p-8 bg-white transition-shadow duration-1000 hover:shadow-none hover:bg-gradient-to-br from-[#66ffcc] to-[#ffccff]'>
+              <div className='text-center rounded-lg shadow-2xl p-8 bg-white border transition-shadow duration-1000 hover:shadow-none hover:bg-gradient-to-br from-[#66ffcc] to-[#ffccff]'>
                 <Image src="/images/intro.jpg" alt="img" height={64} width={64} className='rounded-full mx-auto m-4'/>
                 <p className='text-xl'>College Partnerships:-</p>
                 <br />
@@ -33,7 +34,7 @@ function SuccessStories() {
                 </p>
 
               </div>
-              <div className='text-center rounded-lg shadow-2xl p-8 bg-white transition-shadow duration-1000 hover:shadow-none hover:bg-gradient-to-br from-[#66ffcc] to-[#ffccff]'>
+              <div className='text-center rounded-lg shadow-2xl p-8 bg-white border transition-shadow duration-1000 hover:shadow-none hover:bg-gradient-to-br from-[#66ffcc] to-[#ffccff]'>
                 <Image src="/images/intro.jpg" alt="img" height={64} width={64} className='rounded-full mx-auto m-4'/>
                 <p className='text-xl'>Corporate Collaborations:-</p>
                 <br />
@@ -44,7 +45,7 @@ function SuccessStories() {
 
               </div>
       </section>
-     
+            <Contact/>
     </div>
   )
 }

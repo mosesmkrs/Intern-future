@@ -1,7 +1,6 @@
 import Intro from "@/components/Intro";
 import AboutUs from "@/components/AboutUs";
 import FAQ from "@/components/FAQ";
-import Contact from "@/components/Contact";
 import Services from "@/components/Services";
 import Team from "@/components/Team";
 import Numbers from "@/components/Numbers";
@@ -24,7 +23,6 @@ export default function Home() {
      </section>
      <section id="4">
       <SuccessStories/>
-      <Contact/>
      </section>
      <section id="5">
       <Team/>
