@@ -1,5 +1,4 @@
 import React from 'react'
-import Image from 'next/image'
 import Contact from './Contact'
 import CameraAltIcon from '@mui/icons-material/CameraAlt';
 import UnarchiveIcon from '@mui/icons-material/Unarchive';
