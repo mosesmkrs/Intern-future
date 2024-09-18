@@ -71,7 +71,7 @@ const FAQ = () => {
               style={{
                 maxHeight: openIndex === index ? `30rem` : '0px',
               }}
-              className={`overflow-hidden transition-max-height duration-1000 ease-in-out`}
+              className={`overflow-hidden transition-max-height duration-700 ease-in-out`}
             >
               <div className="p-4 bg-white text-gray-800">
                 <p className='text:sm'>{item.answer}</p>

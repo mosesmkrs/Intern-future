@@ -12,31 +12,31 @@ const Footer1 = () => {
           <div className="border-b-2 border-white w-16 mb-4"></div>
           <ul className="space-y-2">
             <li className="flex items-center border-b">
-              <span className="mr-2"><ArrowForwardIosIcon className="w-4 h-4 mb-2"/></span>
+              <span className="mr-2"><ArrowForwardIosIcon fontSize="small" className="mb-2"/></span>
               <a href="/" className="hover:underline mb-2">
                 Home
               </a>
             </li>
             <li className="flex items-center border-b">
-              <span className="mr-2"><ArrowForwardIosIcon className="w-4 h-4 mb-2"/></span>
+              <span className="mr-2"><ArrowForwardIosIcon fontSize="small" className="mb-2"/></span>
               <a href="/" className="hover:underline mb-2">
                 About Us
               </a>
             </li>
             <li className="flex items-center border-b">
-              <span className="mr-2"><ArrowForwardIosIcon className="w-4 h-4 mb-2"/></span>
+              <span className="mr-2"><ArrowForwardIosIcon fontSize="small" className="mb-2"/></span>
               <a href="/" className="hover:underline mb-2">
                 Our Services
               </a>
             </li>
             <li className="flex items-center border-b">
-              <span className="mr-2"><ArrowForwardIosIcon className="w-4 h-4 mb-2"/></span>
+              <span className="mr-2"><ArrowForwardIosIcon fontSize="small" className="mb-2"/></span>
               <a href="/" className="hover:underline mb-2">
                 Terms & Conditions
               </a>
             </li>
             <li className="flex items-center border-b">
-              <span className="mr-2"><ArrowForwardIosIcon className="w-4 h-4 mb-2"/></span>
+              <span className="mr-2"><ArrowForwardIosIcon fontSize="small" className="mb-2"/></span>
               <a href="/" className="hover:underline mb-2">
                 Privacy Policy
               </a>
@@ -50,31 +50,31 @@ const Footer1 = () => {
           <div className="border-b-2 border-white w-16 mb-4"></div>
           <ul className="space-y-2">
             <li className="flex items-center border-b">
-              <span className="mr-2"><ArrowForwardIosIcon className="w-4 h-4 mb-2"/></span>
+              <span className="mr-2"><ArrowForwardIosIcon fontSize="small" className="mb-2"/></span>
               <a href="/" className="hover:underline mb-2">
                 Success Stories
               </a>
             </li>
             <li className="flex items-center border-b">
-              <span className="mr-2"><ArrowForwardIosIcon className="w-4 h-4 mb-2"/></span>
+              <span className="mr-2"><ArrowForwardIosIcon fontSize="small" className="mb-2"/></span>
               <a href="/" className="hover:underline mb-2">
                 Team
               </a>
             </li>
             <li className="flex items-center border-b">
-              <span className="mr-2"><ArrowForwardIosIcon className="w-4 h-4 mb-2"/></span>
+              <span className="mr-2"><ArrowForwardIosIcon fontSize="small" className="mb-2"/></span>
               <a href="/" className="hover:underline mb-2">
                 Career
               </a>
             </li>
             <li className="flex items-center border-b">
-              <span className="mr-2"><ArrowForwardIosIcon className="w-4 h-4 mb-2"/></span>
+              <span className="mr-2"><ArrowForwardIosIcon fontSize="small" className="mb-2"/></span>
               <a href="/" className="hover:underline mb-2">
                 Contact
               </a>
             </li>
             <li className="flex items-center border-b">
-              <span className="mr-2"><ArrowForwardIosIcon className="w-4 h-4 mb-2"/></span>
+              <span className="mr-2"><ArrowForwardIosIcon fontSize="small" className="mb-2"/></span>
               <a href="/" className="hover:underline mb-2">
                 FAQ
               </a>
@@ -101,7 +101,7 @@ const Footer1 = () => {
           {/* Social Media Icons */}
           <div className="mt-4">
             <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer">
-             <LinkedInIcon className="w-8 h-8 bg-white text-blue-500 p-1 rounded-sm hover:bg-blue-500 hover:text-white transition-all duration-300"/>
+             <LinkedInIcon fontSize="large" className=" bg-white text-blue-500 p-1 rounded-sm hover:bg-blue-500 hover:text-white transition-all duration-300"/>
              </a>
           </div>
         </div>

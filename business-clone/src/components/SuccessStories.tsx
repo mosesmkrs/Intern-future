@@ -24,7 +24,7 @@ function SuccessStories() {
       {/* Responsive grid layout */}
       <section className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 p-6 text-black my-16'>
         <div className='text-center rounded-lg shadow-2xl p-8 bg-white border transition-shadow duration-1000 hover:shadow-none hover:bg-gradient-to-br from-[#66ffcc] to-[#ffccff]'>
-            <StarsIcon className='rounded-lg w-12 h-12 hover:rounded-2xl bg-[#006cff26] text-teal-500 p-2 hover:bg-slate-50'/>
+            <StarsIcon style={{ fontSize: '48px' }} className='rounded-lg hover:rounded-2xl bg-[#006cff26] text-teal-500 p-2 hover:bg-slate-50'/>
           <p className='text-xl mt-3'>Successful Placements:-</p>
           <br />
           <p>
@@ -33,7 +33,7 @@ function SuccessStories() {
         </div>
 
         <div className='text-center rounded-lg shadow-2xl p-8 bg-white border transition-shadow duration-1000 hover:shadow-none hover:bg-gradient-to-br from-[#66ffcc] to-[#ffccff]'>
-           <UnarchiveIcon className='rounded-lg w-12 h-12 hover:rounded-2xl bg-[#9227ff26] text-teal-500 p-2 hover:bg-slate-50'/>
+           <UnarchiveIcon style={{ fontSize: '48px' }} className='rounded-lg hover:rounded-2xl bg-[#9227ff26] text-teal-500 p-2 hover:bg-slate-50'/>
           <p className='text-xl mt-3'>College Partnerships:-</p>
           <br />
           <p>
@@ -42,7 +42,7 @@ function SuccessStories() {
         </div>
 
         <div className='text-center rounded-lg shadow-2xl p-8 bg-white border transition-shadow duration-1000 hover:shadow-none hover:bg-gradient-to-br from-[#66ffcc] to-[#ffccff]'>
-            <CameraAltIcon className='rounded-lg w-12 h-12 hover:rounded-2xl bg-[#1727f626] text-teal-500 p-2 hover:bg-slate-50'/>
+            <CameraAltIcon style={{ fontSize: '48px' }} className='rounded-lg hover:rounded-2xl bg-[#1727f626] text-teal-500 p-2 hover:bg-slate-50'/>
           <p className='text-xl mt-3'>Corporate Collaborations:-</p>
           <br />
           <p>

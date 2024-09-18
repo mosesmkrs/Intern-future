@@ -40,7 +40,7 @@ function Services() {
 
             <section className='grid md:flex gap-6 md:p-6 text-black mt-16'>
               <div className='text-center rounded-lg shadow-2xl p-8 bg-white transition-shadow duration-1000 hover:shadow-none hover:bg-gradient-to-br from-[#66ffcc] to-[#ffccff]'>
-                <LaptopIcon className='rounded-lg w-12 h-12 hover:rounded-2xl bg-[#f7c60533] text-teal-500 p-2 hover:bg-slate-50'/>
+                <LaptopIcon style={{ fontSize: '48px' }} className='rounded-lg hover:rounded-2xl bg-[#f7c60533] text-teal-500 p-2 hover:bg-slate-50'/>
                 <p className='text-xl mt-3'>Students</p>
                 <br />
                 <p>
@@ -49,7 +49,7 @@ function Services() {
 
               </div>
               <div className='text-center rounded-lg shadow-2xl p-8 bg-white transition-shadow duration-1000 hover:shadow-none hover:bg-gradient-to-br from-[#66ffcc] to-[#ffccff]'>
-                  <AdbIcon className='rounded-lg w-12 h-12 hover:rounded-2xl bg-[#ff4d1c26] text-teal-500 p-2 hover:bg-slate-50'/>
+                  <AdbIcon style={{ fontSize: '48px' }} className='rounded-lg hover:rounded-2xl bg-[#ff4d1c26] text-teal-500 p-2 hover:bg-slate-50'/>
                 <p className='text-xl mt-3'>Companies</p>
                 <br />
                 <p>
@@ -58,7 +58,7 @@ function Services() {
 
               </div>
               <div className='text-center rounded-lg shadow-2xl p-8 bg-white transition-shadow duration-1000 hover:shadow-none hover:bg-gradient-to-br from-[#66ffcc] to-[#ffccff]'>
-                  <AutoFixHighIcon className='rounded-lg w-12 h-12 hover:rounded-2xl bg-[#00932626] text-teal-500 p-2 hover:bg-slate-50'/>
+                  <AutoFixHighIcon style={{ fontSize: '48px' }} className='rounded-lg hover:rounded-2xl bg-[#00932626] text-teal-500 p-2 hover:bg-slate-50'/>
                 <p className='text-xl mt-3'>Colleges</p>
                 <br />
                 <p>

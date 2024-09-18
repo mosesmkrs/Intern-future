@@ -56,8 +56,8 @@ export default function Home() {
       </section>
       
       <a href="#">
-  <KeyboardArrowUpIcon
-    className={`fixed bottom-8 right-4 bg-blue-400 text-white z-10 w-16 h-16 p-2 rounded-full transition-opacity duration-500 ease-in-out ${
+  <KeyboardArrowUpIcon style={{ fontSize: '60px' }}
+    className={`fixed bottom-8 right-4 bg-blue-400 text-white z-10  p-2 rounded-full transition-opacity duration-500 ease-in-out ${
       scrolled ? "opacity-100" : "opacity-0 pointer-events-none"
     }`}
   />

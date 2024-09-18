@@ -23,17 +23,17 @@ function Numbers() {
          <p className='font-bold text-lg'>Students</p>
       </div>
       <div className='text-center justify-center p-4 sm:border-none border-b m-2 border-w'>
-         <RedeemIcon className='md:w-12 w-10 h-10  md:h-12 text-white' />
+         <RedeemIcon fontSize='large' className='text-white' />
          <p className='text-2xl md:text-4xl text-white my-3'>35</p>
          <p className='font-bold text-lg'>Colleges</p>
       </div>
       <div className='text-center justify-center p-4'>
-         <GroupsIcon className='md:w-12 w-10 h-10  md:h-12 text-white' />
+         <GroupsIcon fontSize='large' className='text-white' />
          <p className='text-2xl md:text-4xl text-white my-3'>18</p>
          <p className='font-bold text-lg'>Companies Tie-up</p>
       </div>
       <div className='text-center justify-center p-4'>
-         <WorkspacePremiumIcon className='md:w-12 w-10 h-10  md:h-12 text-white' />
+         <WorkspacePremiumIcon fontSize='large' className=' text-white' />
          <p className='text-2xl md:text-4xl text-white my-3'>95</p>
          <p className='font-bold text-lg'>Workshops</p>
       </div>
