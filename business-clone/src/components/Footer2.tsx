@@ -2,8 +2,8 @@ import React from 'react'
 
 function Footer2() {
   return (
-    <div>
-      Footer2
+    <div className='bg-[#333333] text-center p-6'>
+      Copyright © 2024 designed and devloped by MKRS✨. All Rights Reserved.
     </div>
   )
 }
