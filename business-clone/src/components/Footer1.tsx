@@ -12,31 +12,31 @@ const Footer1 = () => {
           <div className="border-b-2 border-white w-16 mb-4"></div>
           <ul className="space-y-2">
             <li className="flex items-center border-b">
-              <span className="mr-2"><ArrowForwardIosIcon fontSize="small" className="mb-2"/></span>
+              <span className="mr-2"><ArrowForwardIosIcon style={{ fontSize: '12px' }} className="mb-2"/></span>
               <a href="/" className="hover:underline mb-2">
                 Home
               </a>
             </li>
             <li className="flex items-center border-b">
-              <span className="mr-2"><ArrowForwardIosIcon fontSize="small" className="mb-2"/></span>
+              <span className="mr-2"><ArrowForwardIosIcon style={{ fontSize: '12px' }} className="mb-2"/></span>
               <a href="/" className="hover:underline mb-2">
                 About Us
               </a>
             </li>
             <li className="flex items-center border-b">
-              <span className="mr-2"><ArrowForwardIosIcon fontSize="small" className="mb-2"/></span>
+              <span className="mr-2"><ArrowForwardIosIcon style={{ fontSize: '12px' }} className="mb-2"/></span>
               <a href="/" className="hover:underline mb-2">
                 Our Services
               </a>
             </li>
             <li className="flex items-center border-b">
-              <span className="mr-2"><ArrowForwardIosIcon fontSize="small" className="mb-2"/></span>
+              <span className="mr-2"><ArrowForwardIosIcon style={{ fontSize: '12px' }} className="mb-2"/></span>
               <a href="/" className="hover:underline mb-2">
                 Terms & Conditions
               </a>
             </li>
             <li className="flex items-center border-b">
-              <span className="mr-2"><ArrowForwardIosIcon fontSize="small" className="mb-2"/></span>
+              <span className="mr-2"><ArrowForwardIosIcon style={{ fontSize: '12px' }} className="mb-2"/></span>
               <a href="/" className="hover:underline mb-2">
                 Privacy Policy
               </a>
@@ -50,31 +50,31 @@ const Footer1 = () => {
           <div className="border-b-2 border-white w-16 mb-4"></div>
           <ul className="space-y-2">
             <li className="flex items-center border-b">
-              <span className="mr-2"><ArrowForwardIosIcon fontSize="small" className="mb-2"/></span>
+              <span className="mr-2"><ArrowForwardIosIcon style={{ fontSize: '12px' }} className="mb-2"/></span>
               <a href="/" className="hover:underline mb-2">
                 Success Stories
               </a>
             </li>
             <li className="flex items-center border-b">
-              <span className="mr-2"><ArrowForwardIosIcon fontSize="small" className="mb-2"/></span>
+              <span className="mr-2"><ArrowForwardIosIcon style={{ fontSize: '12px' }} className="mb-2"/></span>
               <a href="/" className="hover:underline mb-2">
                 Team
               </a>
             </li>
             <li className="flex items-center border-b">
-              <span className="mr-2"><ArrowForwardIosIcon fontSize="small" className="mb-2"/></span>
+              <span className="mr-2"><ArrowForwardIosIcon style={{ fontSize: '12px' }} className="mb-2"/></span>
               <a href="/" className="hover:underline mb-2">
                 Career
               </a>
             </li>
             <li className="flex items-center border-b">
-              <span className="mr-2"><ArrowForwardIosIcon fontSize="small" className="mb-2"/></span>
+              <span className="mr-2"><ArrowForwardIosIcon style={{ fontSize: '12px' }} className="mb-2"/></span>
               <a href="/" className="hover:underline mb-2">
                 Contact
               </a>
             </li>
             <li className="flex items-center border-b">
-              <span className="mr-2"><ArrowForwardIosIcon fontSize="small" className="mb-2"/></span>
+              <span className="mr-2"><ArrowForwardIosIcon style={{ fontSize: '12px' }} className="mb-2"/></span>
               <a href="/" className="hover:underline mb-2">
                 FAQ
               </a>
